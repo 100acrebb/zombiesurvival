@@ -4,4 +4,5 @@ hook.Add("InitPostEntityMap", "Adding", function()
 			ent:Remove()
 		end
 	end
-end)
+end 
+)
